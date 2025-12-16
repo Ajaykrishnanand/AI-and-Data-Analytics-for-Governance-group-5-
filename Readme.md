@@ -145,6 +145,29 @@ The system follows a modular, end-to-end AI pipeline combining OCR, NLP, vector 
 ---
 
 ## ⚙️ Installation & Setup
+## 🧠 Ollama LLM Setup (Local Models)
+
+This project uses **Ollama** to run **local Large Language Models (LLMs)** for:
+- Document classification
+- Structured data extraction
+- Summarization
+- RAG-based document Q&A
+
+Using Ollama ensures **offline execution, zero API cost, and full data privacy**.
+
+---
+
+### 🔹 Step 1: Install Ollama
+
+Download and install Ollama for your operating system:
+
+👉 https://ollama.com/download
+
+Verify installation:
+
+ollama --version
+ollama pull mistral
+```bash
 
 ### 1️⃣ Clone Repository
 ```bash
