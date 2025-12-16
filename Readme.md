@@ -179,3 +179,8 @@ ollama run llama3
 ```bash
 git clone <repository-url>
 cd <project-folder>
+
+pip install requirements.txt
+
+streamlit run app.py
+
