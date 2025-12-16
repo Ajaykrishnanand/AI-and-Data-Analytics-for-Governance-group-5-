@@ -39,13 +39,15 @@ The system follows a modular, end-to-end AI pipeline combining OCR, NLP, vector 
 ## 🖥️ Frontend Interface
 
 ### Document Upload
-![Document Upload](docs/)
+![Document Upload](docs/Document_upload)
 
 ### Extracted Structured Data
-![Extracted JSON](docs/frontend/extracted_json.png)
+![Extracted JSON](docs/json_form)
+![Extracted Fields](docs/extract_field)
 
-### Document Chatbot
-![Chatbot UI](docs/frontend/chatbot_ui.png)
+
+### Document insights
+![Result_Data](docs/Document_insight)
 
 ---
 
