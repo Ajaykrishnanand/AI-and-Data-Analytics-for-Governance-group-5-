@@ -183,22 +183,22 @@ This project uses a **Conda virtual environment** for dependency isolation and r
 ## 🐍 Conda Virtual Environment Setup
 
 ### 1️⃣ Create Environment
-```bash
+
 conda create -n rag-gemini python=3.11 -y
-```bash
+
 conda activate rag-gemini
-```bash
+
 pip install google-genai chromadb pypdf python-dotenv ipykernel
-```bash
+
 python -m ipykernel install --user --name rag-gemini --display-name "Python 3.11 (rag-gemini)"
-```bash
+
 
 
 ### 1️⃣ Clone Repository
-```bash
+
 git clone <repository-url>
-```bash
+
 pip install requirements.txt
-```bash
+
 streamlit run app.py
 
