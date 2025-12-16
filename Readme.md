@@ -145,6 +145,7 @@ The system follows a modular, end-to-end AI pipeline combining OCR, NLP, vector 
 ---
 
 ## ⚙️ Installation & Setup
+
 ## 🧠 Ollama LLM Setup (Local Models)
 
 This project uses **Ollama** to run **local Large Language Models (LLMs)** for:
@@ -167,6 +168,11 @@ Verify installation:
 
 ollama --version
 ollama pull mistral
+
+ollama pull llama3
+
+ollama run llama3
+
 ```bash
 
 ### 1️⃣ Clone Repository
