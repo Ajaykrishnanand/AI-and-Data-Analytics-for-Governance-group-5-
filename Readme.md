@@ -38,16 +38,23 @@ The system follows a modular, end-to-end AI pipeline combining OCR, NLP, vector 
 
 ## 🖥️ Frontend Interface
 
-### Document Upload
-![Document Upload](docs/Document_upload)
 
-### Extracted Structured Data
-![Extracted JSON](docs/json_form)
-![Extracted Fields](docs/extract_field)
+### Document Upload & Configuration
+![Document Upload UI](docs/Document_upload.jpeg)
 
+### Extracted Document Insights
+![Document Insights](docs/Document_insight.jpeg)
 
-### Document insights
-![Result_Data](docs/Document_insight)
+## 📊 Analytics & Field Completion
+
+### Field Completion Analysis
+![Field Completion Chart](docs/extract_field.jpeg)
+
+## 📤 Structured JSON Output
+
+### LLM-Based Structured Extraction
+![Structured JSON Output](docs/json_form.jpeg)
+
 
 ---
 
