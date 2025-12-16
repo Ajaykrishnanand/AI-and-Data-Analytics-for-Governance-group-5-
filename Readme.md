@@ -36,8 +36,16 @@ The system follows a modular, end-to-end AI pipeline combining OCR, NLP, vector 
 
 ![AI Document Automation Pipeline](docs/architecture_flow.png)
 
-> **Note:** Place the provided flowchart image inside a `docs/` folder and name it  
-> `architecture_flow.png`
+## 🖥️ Frontend Interface
+
+### Document Upload
+![Document Upload](docs/)
+
+### Extracted Structured Data
+![Extracted JSON](docs/frontend/extracted_json.png)
+
+### Document Chatbot
+![Chatbot UI](docs/frontend/chatbot_ui.png)
 
 ---
 
