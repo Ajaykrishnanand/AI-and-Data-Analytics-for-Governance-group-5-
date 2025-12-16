@@ -174,11 +174,29 @@ ollama pull llama3
 ollama run llama3
 
 ```bash
+# ⚙️ Environment Setup & Project Execution
+
+This project uses a **Conda virtual environment** for dependency isolation and reproducibility.
+
+---
+
+## 🐍 Conda Virtual Environment Setup
+
+### 1️⃣ Create Environment
+```bash
+conda create -n rag-gemini python=3.11 -y
+
+conda activate rag-gemini
+
+pip install google-genai chromadb pypdf python-dotenv ipykernel
+
+python -m ipykernel install --user --name rag-gemini --display-name "Python 3.11 (rag-gemini)"
+
+
 
 ### 1️⃣ Clone Repository
 ```bash
 git clone <repository-url>
-cd <project-folder>
 
 pip install requirements.txt
 
