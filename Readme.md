@@ -11,25 +11,7 @@ An **end-to-end AI-powered document processing pipeline** that automates OCR, cl
 
 Designed for **government and enterprise-grade workflows** with full **offline processing, data privacy, and audit readiness**.
 
----
 
-## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [System Architecture](#system-architecture)
-- [Processing Flow](#processing-flow)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Installation & Setup](#installation--setup)
-- [Running the Project](#running-the-project)
-- [Project Structure](#project-structure)
-- [Sample Use Cases](#sample-use-cases)
-- [Security & Compliance](#security--compliance)
-- [Limitations](#limitations)
-- [Future Scope](#future-scope)
-- [Contributors](#contributors)
-- [License](#license)
-
----
 
 ## 📖 Project Overview
 
