@@ -63,6 +63,7 @@ The system follows a modular, end-to-end AI pipeline combining OCR, NLP, vector 
 
 5. **Embedding Generation**
    - SentenceTransformer (`all-MiniLM-L6-v2`)
+   - - SentenceTransformer (`paraphrase-multilingual-mpnet-base-v2`)
    - Converts chunks into vector embeddings
 
 6. **Vector Database**
